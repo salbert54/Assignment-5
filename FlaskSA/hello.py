@@ -31,4 +31,4 @@ def profile(username):
 
 @app.route("/me")
 def me_api():
-    return {"username": "jeff", "theme": "dark", "image": "me.jpg"}
+    return {"username": "sarah", "theme": "dark", "image": "me.jpg"}
